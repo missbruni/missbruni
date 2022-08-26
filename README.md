@@ -1,5 +1,5 @@
 <div id='header' align='center' style="margin-bottom: 16px">
-  <img src="https://media.giphy.com/media/2Rc2BC6AwdOncuw6Sf/giphy.gif" height="300px"/>
+  <img src="https://media.giphy.com/media/2Rc2BC6AwdOncuw6Sf/giphy.gif" height="280px"/>
 </div>
 <div id="badges" align='center'>
  <a href="https://www.linkedin.com/in/bruna-lima-89b036a0/">
