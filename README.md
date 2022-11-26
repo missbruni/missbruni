@@ -24,7 +24,7 @@
 - 🌱 A frontend enthusiat trying to keep up to date with new tehcnologies.
 - 📫 Reach me via Linkedin.
 
-#### My Toolbox
+### My Toolbox
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width='30px'/>
@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width='30px'/>     
 </div>
 
-#### More
+### More
 
 ```javascript
 const bruni = {
@@ -58,7 +58,7 @@ const bruni = {
 }
 ```
 
-#### Stats
+### Stats
 
 [![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=missbruni&hide=stars&count_private=true&show_icons=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats).  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missbruni&layout=compact&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
