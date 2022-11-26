@@ -15,15 +15,16 @@
 </h1>
 </div>
 
-## About Me
+#### About Me
 
 💬 I am a Fullstack Developer from the UK. Happy to be part of the JS environment but also eager to continue learning others.
+</br>
 - 🔭 I work for Guestline and contribute to many projects using React, Typescript, Node, C# and Java.
 - 😄 I am always exploring ways to improve UI and UX. 
 - 🌱 A frontend enthusiat trying to keep up to date with new tehcnologies.
 - 📫 Reach me via Linkedin.
 
-## Languages and Tools
+#### Languages and Tools
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width='30px'/>
