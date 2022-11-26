@@ -15,7 +15,7 @@
 </h1>
 </div>
 
-#### About Me
+<h2> Hi, I'm Bruna Lima! <img src="https://media.giphy.com/media/dSrV0Mltxj3cDCcovH/giphy.gif" width="40"></h2>
 
 💬 I am a Fullstack Developer from the UK. Happy to be part of the JS environment but also eager to continue learning others.
 </br>
@@ -46,4 +46,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width='30px'/>     
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width='30px'/>     
 </div>
+
+#### More
+
+```javascript
+const bruni = {
+  architecture: ["microservices", "event-driven"],
+  workingWith:  ["react", "azure", "typescript", "node", "mui", "csharp", "java"],
+  playingWith:  ["vite", "firebase", "next", "remix"],
+}
+```
 
