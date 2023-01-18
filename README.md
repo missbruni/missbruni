@@ -54,7 +54,7 @@ const bruni = {
   pronouns:     ["she", "her"],
   architecture: ["microservices", "event-driven"],
   workingWith:  ["react", "azure", "typescript", "node", "mui", "csharp", "java"],
-  playingWith:  ["vite", "firebase", "next", "remix"],
+  playingWith:  ["vite", "firebase", "next", "remix", "sw", "fastify"],
 }
 ```
 
